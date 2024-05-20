@@ -1,0 +1,47 @@
+body{
+    background-color: darkgoldenrod;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+div{
+    margin: 0 auto;
+    width: 450px;
+    height: 700px;
+}
+input{
+    border-radius: 15px;
+    padding-left: 10px;
+    background-color: chartreuse;
+    font-weight: bold;
+    color: aliceblue;
+}
+button{
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    background-color: brown;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+::placeholder{
+    color: black;
+    font-size: 10px;
+}
+label{
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 10px;
+    color: blue;
+}
+img{
+    width: 10px;
+    height: 10px;
+    
+}
